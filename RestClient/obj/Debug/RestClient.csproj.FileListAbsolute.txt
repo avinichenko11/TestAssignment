@@ -1,0 +1,7 @@
+c:\users\artem\source\repos\FareportalTestAssignment\RestClient\bin\Debug\RestClient.dll
+c:\users\artem\source\repos\FareportalTestAssignment\RestClient\bin\Debug\RestClient.pdb
+c:\users\artem\source\repos\FareportalTestAssignment\RestClient\bin\Debug\Newtonsoft.Json.dll
+c:\users\artem\source\repos\FareportalTestAssignment\RestClient\bin\Debug\Newtonsoft.Json.xml
+c:\users\artem\source\repos\FareportalTestAssignment\RestClient\obj\Debug\RestClient.csproj.CoreCompileInputs.cache
+c:\users\artem\source\repos\FareportalTestAssignment\RestClient\obj\Debug\RestClient.dll
+c:\users\artem\source\repos\FareportalTestAssignment\RestClient\obj\Debug\RestClient.pdb
